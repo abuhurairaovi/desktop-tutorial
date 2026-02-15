@@ -4,7 +4,13 @@
 
 
 }
+h1 {
 
+    display: block;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
 #printHeader {
 
     display: none;
@@ -215,4 +221,5 @@ button:hover {
         background: white;
         color: black;
     }
+
 }
